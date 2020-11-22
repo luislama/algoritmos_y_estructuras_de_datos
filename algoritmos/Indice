@@ -6,4 +6,6 @@
     Como se puede obtener el producto de 2 numeros sin multiplicar ?
     Limitaciones: numeros enteros positivos [0, 1, 10, 1000]
 
-
+03_dividir_sin_dividir
+    Como se puede obtener el cociente de 2 numeros sin dividir ?
+    Limitaciones: numeros enteros positivos [0, 1, 10, 1000]
