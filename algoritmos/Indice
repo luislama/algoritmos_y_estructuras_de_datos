@@ -9,3 +9,7 @@
 03_dividir_sin_dividir
     Como se puede obtener el cociente de 2 numeros sin dividir ?
     Limitaciones: numeros enteros positivos [0, 1, 10, 1000]
+
+04_potencia_sin_potencia
+    Como se puede obtener la potencia dados la base y el exponente sin operador o funcion de potencia ?
+    Limitaciones: numeros enteros positivos [0, 1, 10, 1000]
