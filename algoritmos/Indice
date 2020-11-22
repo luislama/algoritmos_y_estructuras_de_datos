@@ -2,3 +2,8 @@
     Como se puede obtener la diferencia de 2 numeros sin restar ?
     Limitaciones: numeros enteros [0, 1, -2, 1000]
 
+02_multiplicar_sin_multiplicar
+    Como se puede obtener el producto de 2 numeros sin multiplicar ?
+    Limitaciones: numeros enteros positivos [0, 1, 10, 1000]
+
+
