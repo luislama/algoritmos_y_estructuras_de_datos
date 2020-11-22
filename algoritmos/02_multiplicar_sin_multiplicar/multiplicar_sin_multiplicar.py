@@ -20,11 +20,11 @@ def calcular_producto(num1, num2, respuesta):
         if producto != respuesta:
             print("".join(['Error!, el producto es: ', respuesta]))
 
-    # hay diferencia ?
+    # uno de los 2 es cero ?
     if 0 in [num1, num2]:
         print_result()
     else:
-        # obtengo diferencia
+        # obtengo el producto
         for i in range(num2):
             producto += num1
         print_result()
