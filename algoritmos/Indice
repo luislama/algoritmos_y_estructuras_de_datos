@@ -21,3 +21,7 @@
 06_es_primo
     Como se puede saber si un numero es primo ?
     Limitaciones: numeros enteros positivos mayores a cero [1, 10, 1000]
+
+07_es_perfecto
+    Como se puede saber si un numero es perfecto ?
+    Limitaciones: numeros enteros positivos mayores a cero [1, 10, 1000]
