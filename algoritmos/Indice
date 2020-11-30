@@ -34,3 +34,6 @@
 
 10_Factor_primo_mayor
     Cual es el factor primo mayor del numero 600851475143
+
+11_Producto_palindromo_mayor
+    Encuentra el numero palindromo mayor formado por el producto de dos numeros de 3 digitos
