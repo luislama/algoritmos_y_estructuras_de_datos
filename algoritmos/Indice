@@ -28,3 +28,6 @@
 
 08_Multiplos_de_3_y_5
     Encontrar la suma de todos los multiplos de 3 y 5 menores a 1000
+
+09_Fibonacci_pares
+    Encontrar la suma de todos los numeros pares en la serie de Fibonacci, menores a 4 millones
