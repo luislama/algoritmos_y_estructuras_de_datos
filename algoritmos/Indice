@@ -37,3 +37,6 @@
 
 11_Producto_palindromo_mayor
     Encuentra el numero palindromo mayor formado por el producto de dos numeros de 3 digitos
+
+12_Menor_multiplo
+    Cual es el minimo comun multiplo de los numeros 1, 2, 3, ... 20
