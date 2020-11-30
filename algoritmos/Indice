@@ -25,3 +25,6 @@
 07_es_perfecto
     Como se puede saber si un numero es perfecto ?
     Limitaciones: numeros enteros positivos mayores a cero [1, 10, 1000]
+
+08_Multiplos_de_3_y_5
+    Encontrar la suma de todos los multiplos de 3 y 5 menores a 1000
