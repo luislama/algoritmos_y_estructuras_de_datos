@@ -31,3 +31,6 @@
 
 09_Fibonacci_pares
     Encontrar la suma de todos los numeros pares en la serie de Fibonacci, menores a 4 millones
+
+10_Factor_primo_mayor
+    Cual es el factor primo mayor del numero 600851475143
