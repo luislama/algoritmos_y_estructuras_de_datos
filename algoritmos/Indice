@@ -43,3 +43,7 @@
 
 13_Diferencia_suma_de_cuadrados
     Encuentra la diferencia entre la suma de los cuadrados de los primeros cien números naturales y el cuadrado de la suma
+
+14_10001ro_primo
+    Los numeros primos son 2, 3, 5, 7, 11, 13, ...
+    3 es el 2do, 13 el 6to. Cual es el 10001ro numero primo ?
