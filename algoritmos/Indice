@@ -40,3 +40,6 @@
 
 12_Menor_multiplo
     Cual es el minimo comun multiplo de los numeros 1, 2, 3, ... 20
+
+13_Diferencia_suma_de_cuadrados
+    Encuentra la diferencia entre la suma de los cuadrados de los primeros cien números naturales y el cuadrado de la suma
