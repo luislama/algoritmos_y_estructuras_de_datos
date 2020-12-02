@@ -47,3 +47,7 @@
 14_10001ro_primo
     Los numeros primos son 2, 3, 5, 7, 11, 13, ...
     3 es el 2do, 13 el 6to. Cual es el 10001ro numero primo ?
+
+15_producto_mayor
+    Encuentra el mayor producto posible con 13 numeros adyacentes dentro de la serie
+    Limitaciones: La serie es un string
