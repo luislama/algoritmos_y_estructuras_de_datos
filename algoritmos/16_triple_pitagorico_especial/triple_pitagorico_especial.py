@@ -27,10 +27,6 @@ def cumple_condiciones(numeros):
     if (len(numeros) != 3) or (0 in numeros):
         return False
     a, b, c = numeros
-    '''
-    if (a + b + c == 1000) and (a**2 + b**2 == c**2):
-        return True
-    '''
     if (500000 - 1000*(a+b) + (a*b)) == 0:
         return True
 
@@ -40,13 +36,6 @@ while not cumple_condiciones(numeros):
         numeros = [a, b, 1]
         if cumple_condiciones(numeros):
             break
-        '''
-        for c in range(b + 1, MAX):
-            if a + b + c != 1000:
-                continue
-            elif a**2 + b**2 == c**2:
-                numeros = [a, b, c]
-        '''
         b += 1
     a += 1
 
