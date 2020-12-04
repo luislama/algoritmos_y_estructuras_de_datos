@@ -1,5 +1,6 @@
 '''
-    ss
+    Encuentra el mayor producto posible con 13 numeros adyacentes dentro de la serie
+    Limitaciones: La serie es un string
 '''
 
 serie = '73167176531330624919225119674426574742355349194934' + \
